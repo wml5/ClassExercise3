@@ -15,6 +15,6 @@ public class Class_Exercise3
     
     public static void Ludwick()
     {
-        System.out.println("William Ludwick");
+        System.out.println("William Ludwick III");
     }
 }
